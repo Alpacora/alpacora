@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Gowdock](https://gowdock.com/)
 
-- 🌱 I’m currently learning **TypeScript, NodeJs, Graphql...**
+- 🌱 I’m currently learning forever **TypeScript, NodeJs, Graphql...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alpacora](https://github.com/alpacora)
 
