@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaebenning" target="blank"><img src="https://img.shields.io/twitter/follow/kaebenning?logo=twitter&style=for-the-badge" alt="kaebenning" /></a> </p>
 
-- 🔭 I’m currently working on [Gowdock](https://gowdock.com/)
+- 🔭 I’m currently working on [Livelo](https://www.livelo.com.br/) and [EPIONE](https://www.epione.com.br/)
 
 - 🌱 I’m currently learning forever **TypeScript, NodeJs, Graphql...**
 
